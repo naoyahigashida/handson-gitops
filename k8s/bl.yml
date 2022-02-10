@@ -24,7 +24,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/naoyahigashida/handson-ci-image:7d19502fec284a98f83f5528392eb4e62c177e56
+      - image: docker.io/naoyahigashida/handson-ci-image:e8aac9c7294cfa3075be16743b87749c1113a071
         name: blue
         ports:
           - containerPort: 80
